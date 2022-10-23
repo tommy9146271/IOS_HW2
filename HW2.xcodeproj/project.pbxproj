@@ -7,6 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6563B4782904606500D56B86 /* AnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6563B4772904606500D56B86 /* AnimationView.swift */; };
+		6563B47E290479F900D56B86 /* R7 APPIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 6563B479290479F900D56B86 /* R7 APPIcon.png */; };
+		6563B47F290479F900D56B86 /* Ninja ZX-6R APPIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 6563B47A290479F900D56B86 /* Ninja ZX-6R APPIcon.png */; };
+		6563B480290479F900D56B86 /* Panigale V2 Bayliss APPIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 6563B47B290479F900D56B86 /* Panigale V2 Bayliss APPIcon.png */; };
+		6563B48529047C8B00D56B86 /* APPIconView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6563B48429047C8B00D56B86 /* APPIconView.swift */; };
+		656520DF28FD42B6003F86C0 /* Detail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 656520DE28FD42B6003F86C0 /* Detail.swift */; };
+		656FD17028F9EB1C00AB79E5 /* DucatiView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 656FD16F28F9EB1C00AB79E5 /* DucatiView.swift */; };
+		656FD17228F9EDB700AB79E5 /* BmwView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 656FD17128F9EDB700AB79E5 /* BmwView.swift */; };
+		656FD49729005D280091816E /* VideoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 656FD49629005D280091816E /* VideoView.swift */; };
+		65D76CFF28F873DA005D676D /* HondaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65D76CFE28F873DA005D676D /* HondaView.swift */; };
 		65F51E0228F855FB006E65E3 /* HW2App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65F51E0128F855FB006E65E3 /* HW2App.swift */; };
 		65F51E0428F855FB006E65E3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65F51E0328F855FB006E65E3 /* ContentView.swift */; };
 		65F51E0628F855FB006E65E3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65F51E0528F855FB006E65E3 /* Assets.xcassets */; };
@@ -14,6 +24,10 @@
 		65F51E1328F855FC006E65E3 /* HW2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65F51E1228F855FC006E65E3 /* HW2Tests.swift */; };
 		65F51E1D28F855FC006E65E3 /* HW2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65F51E1C28F855FC006E65E3 /* HW2UITests.swift */; };
 		65F51E1F28F855FC006E65E3 /* HW2UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65F51E1E28F855FC006E65E3 /* HW2UITestsLaunchTests.swift */; };
+		65F51E2C28F85EDB006E65E3 /* define.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65F51E2B28F85EDB006E65E3 /* define.swift */; };
+		65F51E2E28F8639C006E65E3 /* KawasakiView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65F51E2D28F8639C006E65E3 /* KawasakiView.swift */; };
+		65F51E3028F868A5006E65E3 /* YamahaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65F51E2F28F868A5006E65E3 /* YamahaView.swift */; };
+		65F51E3228F870E5006E65E3 /* SuzukiView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65F51E3128F870E5006E65E3 /* SuzukiView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +48,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6563B4772904606500D56B86 /* AnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationView.swift; sourceTree = "<group>"; };
+		6563B479290479F900D56B86 /* R7 APPIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "R7 APPIcon.png"; path = "../../../Downloads/R7 APPIcon.png"; sourceTree = "<group>"; };
+		6563B47A290479F900D56B86 /* Ninja ZX-6R APPIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Ninja ZX-6R APPIcon.png"; path = "../../../Downloads/Ninja ZX-6R APPIcon.png"; sourceTree = "<group>"; };
+		6563B47B290479F900D56B86 /* Panigale V2 Bayliss APPIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Panigale V2 Bayliss APPIcon.png"; path = "../../../Downloads/Panigale V2 Bayliss APPIcon.png"; sourceTree = "<group>"; };
+		6563B48329047A8300D56B86 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		6563B48429047C8B00D56B86 /* APPIconView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APPIconView.swift; sourceTree = "<group>"; };
+		656520DE28FD42B6003F86C0 /* Detail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Detail.swift; sourceTree = "<group>"; };
+		656FD16F28F9EB1C00AB79E5 /* DucatiView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DucatiView.swift; sourceTree = "<group>"; };
+		656FD17128F9EDB700AB79E5 /* BmwView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BmwView.swift; sourceTree = "<group>"; };
+		656FD49629005D280091816E /* VideoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoView.swift; sourceTree = "<group>"; };
+		65D76CFE28F873DA005D676D /* HondaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HondaView.swift; sourceTree = "<group>"; };
 		65F51DFE28F855FB006E65E3 /* HW2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HW2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		65F51E0128F855FB006E65E3 /* HW2App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HW2App.swift; sourceTree = "<group>"; };
 		65F51E0328F855FB006E65E3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -44,6 +69,10 @@
 		65F51E1828F855FC006E65E3 /* HW2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HW2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		65F51E1C28F855FC006E65E3 /* HW2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HW2UITests.swift; sourceTree = "<group>"; };
 		65F51E1E28F855FC006E65E3 /* HW2UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HW2UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		65F51E2B28F85EDB006E65E3 /* define.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = define.swift; sourceTree = "<group>"; };
+		65F51E2D28F8639C006E65E3 /* KawasakiView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KawasakiView.swift; sourceTree = "<group>"; };
+		65F51E2F28F868A5006E65E3 /* YamahaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YamahaView.swift; sourceTree = "<group>"; };
+		65F51E3128F870E5006E65E3 /* SuzukiView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuzukiView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,8 +123,23 @@
 		65F51E0028F855FB006E65E3 /* HW2 */ = {
 			isa = PBXGroup;
 			children = (
+				6563B48329047A8300D56B86 /* Info.plist */,
+				6563B47A290479F900D56B86 /* Ninja ZX-6R APPIcon.png */,
+				6563B47B290479F900D56B86 /* Panigale V2 Bayliss APPIcon.png */,
+				6563B479290479F900D56B86 /* R7 APPIcon.png */,
 				65F51E0128F855FB006E65E3 /* HW2App.swift */,
 				65F51E0328F855FB006E65E3 /* ContentView.swift */,
+				6563B4772904606500D56B86 /* AnimationView.swift */,
+				6563B48429047C8B00D56B86 /* APPIconView.swift */,
+				656520DE28FD42B6003F86C0 /* Detail.swift */,
+				656FD49629005D280091816E /* VideoView.swift */,
+				656FD17128F9EDB700AB79E5 /* BmwView.swift */,
+				656FD16F28F9EB1C00AB79E5 /* DucatiView.swift */,
+				65D76CFE28F873DA005D676D /* HondaView.swift */,
+				65F51E3128F870E5006E65E3 /* SuzukiView.swift */,
+				65F51E2F28F868A5006E65E3 /* YamahaView.swift */,
+				65F51E2D28F8639C006E65E3 /* KawasakiView.swift */,
+				65F51E2B28F85EDB006E65E3 /* define.swift */,
 				65F51E0528F855FB006E65E3 /* Assets.xcassets */,
 				65F51E0728F855FB006E65E3 /* Preview Content */,
 			);
@@ -232,7 +276,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				65F51E0928F855FB006E65E3 /* Preview Assets.xcassets in Resources */,
+				6563B480290479F900D56B86 /* Panigale V2 Bayliss APPIcon.png in Resources */,
+				6563B47E290479F900D56B86 /* R7 APPIcon.png in Resources */,
 				65F51E0628F855FB006E65E3 /* Assets.xcassets in Resources */,
+				6563B47F290479F900D56B86 /* Ninja ZX-6R APPIcon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -257,8 +304,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				656FD17028F9EB1C00AB79E5 /* DucatiView.swift in Sources */,
+				656520DF28FD42B6003F86C0 /* Detail.swift in Sources */,
+				656FD17228F9EDB700AB79E5 /* BmwView.swift in Sources */,
+				65F51E2E28F8639C006E65E3 /* KawasakiView.swift in Sources */,
 				65F51E0428F855FB006E65E3 /* ContentView.swift in Sources */,
 				65F51E0228F855FB006E65E3 /* HW2App.swift in Sources */,
+				65F51E2C28F85EDB006E65E3 /* define.swift in Sources */,
+				65D76CFF28F873DA005D676D /* HondaView.swift in Sources */,
+				65F51E3028F868A5006E65E3 /* YamahaView.swift in Sources */,
+				6563B48529047C8B00D56B86 /* APPIconView.swift in Sources */,
+				6563B4782904606500D56B86 /* AnimationView.swift in Sources */,
+				65F51E3228F870E5006E65E3 /* SuzukiView.swift in Sources */,
+				656FD49729005D280091816E /* VideoView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -420,6 +478,7 @@
 				DEVELOPMENT_TEAM = LGX8P48XXH;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = HW2/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -449,6 +508,7 @@
 				DEVELOPMENT_TEAM = LGX8P48XXH;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = HW2/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
